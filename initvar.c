@@ -10,7 +10,7 @@ int main()
   float keliling = 2*3.14*5.5; /* nilai keliling lingkaran dengan jari-jari 5.5*/
 
 /* Algoritma */
-  printf("Ini jumlah bebekku : %d \n", bebek); /*untuk mengamati    dampak inisialisasi*/
+  printf("Ini jumlah bebekku : %d \n", bebek); /*untuk mengamati dampak inisialisasi*/
   printf("kebunku di desa seluas : %f \n", luas);
   printf("jumlah nilai keliling lingkaran sebesar: %f \n", keliling);
   return 0;
