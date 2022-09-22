@@ -12,7 +12,7 @@ int main()
 /* Algoritma */
   printf("Ini jumlah bebekku : %d \n", bebek); /*untuk mengamati    dampak inisialisasi*/
   printf("kebunku di desa seluas : %f \n", luas);
-  printf("jumlah nilai keliling lingkaran sebesar: %f \n",     keliling);
+  printf("jumlah nilai keliling lingkaran sebesar: %f \n", keliling);
   return 0;
 }
 
