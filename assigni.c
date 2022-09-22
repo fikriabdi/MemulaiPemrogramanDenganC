@@ -6,7 +6,7 @@
 int main()
 { /* kamus */
   int i;
-
+  
 /* Algoritma */
   i = 10; /* variabel i bernilai 10 */
   printf("Ini nilai i : %d \n", i); 
